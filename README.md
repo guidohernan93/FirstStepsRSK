@@ -26,6 +26,10 @@ In order to build a jar from any version, once you have the latest version of th
 
 ## Run Dockerized tests
 
-After getting Docker, a good example to check test flow can be found here:
+After getting Docker, a good example to get in touch with contracts and tests can be found here:
 
 [wasabi-opcode tests](https://github.com/rsksmart/dockerized-network/tree/wasabi-opcodes/wasabi-opcodes)
+
+There you can see:
+  - create2 contract example
+  - Difference between using method with .call() and without it. It is important as you learn that using .call() after method causes no impact on blockchain (could consider it as a GET action), but invoking method without it causes impact on the blockchain.
