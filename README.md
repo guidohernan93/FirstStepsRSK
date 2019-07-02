@@ -28,4 +28,4 @@ In order to build a jar from any version, once you have the latest version of th
 
 After getting Docker, a good example to check test flow can be found here:
 
-[link to Tests](https://github.com/rsksmart/dockerized-network/tree/wasabi-opcodes/wasabi-opcodes)
+[wasabi-opcode tests](https://github.com/rsksmart/dockerized-network/tree/wasabi-opcodes/wasabi-opcodes)
