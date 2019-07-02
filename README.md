@@ -19,7 +19,7 @@ In order to build a jar from any version, once you have the latest version of th
 
 ###### ./gradlew build -x test 
 
-###### jar file is created on path /rskj/rskj-core/build/libs
+##### jar file is created on path /rskj/rskj-core/build/libs
 
 (-x test parameter is added to exclude tests, so that building process is faster. You can leave it and run tests)
 
