@@ -17,7 +17,7 @@ In case node is not logging, it is probable you have to update the Graddle runne
 
 In order to build a jar from any version, once you have the latest version of the tag you want you have to run this command from terminal:
 
-###### ./gradlew build -x test 
+``` ./gradlew build -x test ``` 
 
 ##### jar file is created on path /rskj/rskj-core/build/libs
 
