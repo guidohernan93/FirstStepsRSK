@@ -24,3 +24,8 @@ In order to build a jar from any version, once you have the latest version of th
 (-x test parameter is added to exclude tests, so that building process is faster. You can leave it to run tests)
 
 
+## Run Dockerized tests
+
+After getting Docker, a good example to check test flow can be found here:
+
+[link to Tests](https://github.com/rsksmart/dockerized-network/tree/wasabi-opcodes/wasabi-opcodes)
