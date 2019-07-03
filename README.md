@@ -26,6 +26,8 @@
 - [Truffle](https://truffleframework.com/truffle)
 - [Docker](https://truffleframework.com/truffle)
 - [Git](https://git-scm.com/downloads)
+- [Intro Solidity](https://solidity-es.readthedocs.io/es/latest/introduction-to-smart-contracts.html)
+- [OpenZeppelin](https://openzeppelin.org/)
 
 ## Node debugger configuration
 
