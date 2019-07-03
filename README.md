@@ -52,7 +52,7 @@ In order to build a jar from any version, once you have the latest version of th
 
 ##### jar file is created on path /rskj/rskj-core/build/libs
 
-(-x test parameter is added to exclude tests, so that building process is faster. You can leave it to run tests)
+(``` -x test ``` parameter is added to exclude tests, so that building process is faster. You can leave it to run tests)
 
 
 ## Run Dockerized tests
