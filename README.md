@@ -3,7 +3,8 @@
 
 - [Java JDK 8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 - [IntelliJ Idea](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac&code=IIC)
-- [Visual Studio Code](https://code.visualstudio.com/download) and Solidity Plug-in (Juan Blanco)
+- [Visual Studio Code](https://code.visualstudio.com/download) 
+  - add Solidity Plug-in (Juan Blanco)
 - [Truffle](https://truffleframework.com/truffle)
 - [Docker](https://truffleframework.com/truffle)
 - [Git](https://git-scm.com/downloads)
