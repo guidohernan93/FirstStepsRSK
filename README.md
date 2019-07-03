@@ -16,6 +16,8 @@
 - [Programa para ejecutivos](https://drive.google.com/open?id=1nATjtMEEINSbYEaAceNEXno-2nLr2MG0)
 - [Mastering Bitcoin](https://www.bibliadelprogramador.com/2018/06/mastering-bitcoin-en-espanol.html)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Intro Solidity](https://solidity-es.readthedocs.io/es/latest/introduction-to-smart-contracts.html)
+- [OpenZeppelin](https://openzeppelin.org/)
 
 ## Required Software
 
@@ -26,8 +28,6 @@
 - [Truffle](https://truffleframework.com/truffle)
 - [Docker](https://truffleframework.com/truffle)
 - [Git](https://git-scm.com/downloads)
-- [Intro Solidity](https://solidity-es.readthedocs.io/es/latest/introduction-to-smart-contracts.html)
-- [OpenZeppelin](https://openzeppelin.org/)
 
 ## Node debugger configuration
 
