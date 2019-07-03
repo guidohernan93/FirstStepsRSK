@@ -1,4 +1,13 @@
 # FirstStepsRSK
+## Documentation 
+- [Intro Bitcoin](https://www.youtube.com/watch?v=YBNr69vrscw)
+- [Intro Smart Contracts](Intro Smart Contracts)
+- [Curso Bitcoin - Español](https://www.youtube.com/channel/UCtr89rxrUb9YcMSX60cD79g)
+- [El valor real de la tecnologia Bitcoin - Español](http://bitcoinproperly.org/es/)
+- [Beyond Bitcoin - Diego Gutiérrez Zaldivar](https://media.rsk.co/bitcoin-la-punta-del-iceberg/)
+- [Internet of Value & Smart Contracts - Diego Gutiérrez Zaldivar](https://www.youtube.com/watch?v=2WIg3-rr3Hk)
+- [Internet of Value - Diego Gutierrez Zaldivar](https://www.youtube.com/watch?v=fyfYoe4LOgc)
+
 ## Required Software
 
 - [Java JDK 8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
