@@ -28,6 +28,7 @@
 - [Truffle](https://truffleframework.com/truffle)
 - [Docker](https://truffleframework.com/truffle)
 - [Git](https://git-scm.com/downloads)
+- [Ganache](https://www.trufflesuite.com/ganache)
 
 ## Node debugger configuration
 
