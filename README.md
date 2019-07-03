@@ -1,7 +1,7 @@
 # FirstStepsRSK
 ## Node debugger configuration
 
-After downloading the RSK node and opening it on IntelliJ, add debug configuration like:
+After downloading the [RSK node](https://github.com/rsksmart/rskj) and opening it on IntelliJ, add debug configuration like:
 
 ![alt text](screenshots/debug_config.png)
 
