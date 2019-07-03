@@ -1,4 +1,13 @@
 # FirstStepsRSK
+## Required Software
+
+- [Java JDK 8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+- [IntelliJ Idea](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac&code=IIC)
+- [Visual Studio Code](https://code.visualstudio.com/download) and Solidity Plug-in (Juan Blanco)
+- [Truffle](https://truffleframework.com/truffle)
+- [Docker](https://truffleframework.com/truffle)
+- [Git](https://git-scm.com/downloads)
+
 ## Node debugger configuration
 
 After downloading the [RSK node](https://github.com/rsksmart/rskj) and opening it on IntelliJ, add debug configuration like:
