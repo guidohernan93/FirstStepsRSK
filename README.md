@@ -1,4 +1,4 @@
-# FirstStepsRSK
+# First Steps RSK
 ## Documentation 
 - [Intro Bitcoin](https://www.youtube.com/watch?v=YBNr69vrscw)
 - [Intro Smart Contracts](https://www.youtube.com/watch?v=ZE2HxTmxfrI&pbjreload=10)
