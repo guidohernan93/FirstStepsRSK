@@ -79,4 +79,4 @@ There you can see:
      
  ``` rm -rf bitcoin-0.18.0* ```    
 
-As a validation, you can run ``` bitcoind -daemon ```. Run ``` bitcoin-cli stop ```.
+As a validation, you can run ``` bitcoind -daemon ```. Run ``` bitcoin-cli stop ``` afterwards.
