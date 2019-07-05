@@ -67,7 +67,7 @@ There you can see:
   
  ## Install Bitcoind
  
- In order to install Bitcoind, you can follow these steps. We will use version ``` 0.18.0 ```, but it can be any other valid one (i.e 0.17.1).
+ In order to install Bitcoind, you can follow these steps. We will use version ``` 0.18.0 ```, but it can be any other valid one (i.e ``` 0.17.1 ```).
  
  ``` curl -O https://bitcoin.org/bin/bitcoin-core-0.18.0/bitcoin-0.18.0-osx64.tar.gz ```
  
@@ -78,3 +78,5 @@ There you can see:
 ```  sudo cp bitcoin-0.18.0/bin/bitcoin* /usr/local/bin/. ```
      
  ``` rm -rf bitcoin-0.18.0* ```    
+
+As a validation, you can run ``` bitcoind -daemon ```. Run ``` bitcoin-cli stop ```.
