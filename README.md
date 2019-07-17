@@ -80,9 +80,3 @@ There you can see:
  ``` rm -rf bitcoin-0.18.0* ```    
 
 As a validation, you can run ``` bitcoind -daemon ```. Run ``` bitcoin-cli stop ``` afterwards.
-
-## Run Dockerized Federation tests
-
-In order to easily run federation tests, you can clone:
-
-[dockerized-fed-test](https://github.com/rootstock/utilities/tree/dockerized-fed-test/dockerized-fed-test)
